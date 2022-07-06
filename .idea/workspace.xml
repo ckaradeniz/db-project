@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8f3618-58c5-40ce-88fa-b45fc1218f6d" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/sqlfiles/string_man_views.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlfiles/sub_interview.sql" afterDir="false" />
+    <list default="true" id="4d8f3618-58c5-40ce-88fa-b45fc1218f6d" name="Changes" comment="day 02">
+      <change afterPath="$PROJECT_DIR$/sqlfiles/alter_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlfiles/crete_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlfiles/customerandaddress.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlfiles/join1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlfiles/join2.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sqlfiles/subquery_rownum.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sqlfiles/subquery_rownum.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,22 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Database Script.join2.sql">
+    <configuration name="crete_table.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sqlfiles/crete_table.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="customerandaddress.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sqlfiles/customerandaddress.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="join2.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sqlfiles/join2.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
     <configuration name="subquery_rownum.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/sqlfiles/subquery_rownum.sql" />
       <script-mode>FILE</script-mode>
@@ -51,6 +68,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Database Script.join2.sql" />
+        <item itemvalue="Database Script.customerandaddress.sql" />
+        <item itemvalue="Database Script.crete_table.sql" />
         <item itemvalue="Database Script.subquery_rownum.sql" />
       </list>
     </recent_temporary>
@@ -64,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1656960070145</updated>
       <workItem from="1656960072796" duration="7881000" />
-      <workItem from="1657051249260" duration="6768000" />
+      <workItem from="1657051249260" duration="6829000" />
+      <workItem from="1657105992311" duration="11959000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1656961701659</created>
@@ -73,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656961701659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 02">
+      <created>1657102370953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657102370953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="day 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 02" />
   </component>
 </project>
