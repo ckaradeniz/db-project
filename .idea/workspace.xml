@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8f3618-58c5-40ce-88fa-b45fc1218f6d" name="Changes" comment="day 02">
-      <change afterPath="$PROJECT_DIR$/sqlfiles/alter_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlfiles/crete_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlfiles/customerandaddress.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlfiles/join1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlfiles/join2.sql" afterDir="false" />
+    <list default="true" id="4d8f3618-58c5-40ce-88fa-b45fc1218f6d" name="Changes" comment="day 03">
+      <change afterPath="$PROJECT_DIR$/sqlfiles/create_dev_test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlfiles/join3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlfiles/self_join.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlfiles/set_operators.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlfiles/join2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sqlfiles/join2.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,8 @@
       <updated>1656960070145</updated>
       <workItem from="1656960072796" duration="7881000" />
       <workItem from="1657051249260" duration="6829000" />
-      <workItem from="1657105992311" duration="11959000" />
+      <workItem from="1657105992311" duration="12511000" />
+      <workItem from="1657314427436" duration="10173000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1656961701659</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657102370953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day 03">
+      <created>1657140527073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657140527073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="day 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 02" />
+    <MESSAGE value="day 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 03" />
   </component>
 </project>
